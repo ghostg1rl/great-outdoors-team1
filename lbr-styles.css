@@ -20,3 +20,16 @@ border-radius: 8px;
 h2 {
 color: #2c6e49;
 }
+
+img {
+height: auto;
+width: 600px;
+}
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  display: block;
+}
