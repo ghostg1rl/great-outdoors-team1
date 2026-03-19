@@ -1,5 +1,8 @@
 # ***Class Project***
 
+This is a class project for our "Intro to Software Development" course, primarily teaching us fundamentals on group collaboration in a git & github environment.
+
+Live site hosted at https://in-class-demo-2dced.web.app/index.html
 
 # The Great Outdoors 🌲
 
